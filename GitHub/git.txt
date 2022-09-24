@@ -1,0 +1,8 @@
+git init
+
+git config --gobal user.name "ism"
+git config --gobal user.email devsaidisalom@gmail.com
+
+git status
+
+git add -A
