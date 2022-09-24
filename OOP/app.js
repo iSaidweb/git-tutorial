@@ -15,5 +15,3 @@ console.log(car);
 console.log(gmCar);
 console.log(gmCar.color);
 //qisqacha qilib prototype yaratish || prototype ga yo'naltirilgan meros
-
-const a = () =>{};
