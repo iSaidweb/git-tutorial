@@ -6,3 +6,5 @@ git config --gobal user.email devsaidisalom@gmail.com
 git status
 
 git add -A
+
+git commit -m "first commit"
